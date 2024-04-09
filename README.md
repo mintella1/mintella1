@@ -1,0 +1,13 @@
+안녕하세요 민텔라입니다:Hello, this is Mintella. 
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ 제가 좋아하는것은 과자,💰,
+- 📫 저에게 연락하는 방법은요 이메일:mintella800@gmail.com
+- 또는 유튜브에 민텔라라고 치면 나옵니다
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+mintella1/mintella1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
